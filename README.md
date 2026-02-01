@@ -1,4 +1,4 @@
-# RED
+# EGSE
 
 Official implementation of  
 **"Paper Title"**
