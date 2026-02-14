@@ -1,4 +1,4 @@
-# Evolutionary Continual Learning via Dynamic Module Composition
+# Expand Only When Necessary: Expressibility-Guided Modular Continual Learning
 
 Code for anonymous research submission.
 
